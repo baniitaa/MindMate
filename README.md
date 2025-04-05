@@ -46,5 +46,5 @@ mindmate/
 ├── index.html
 └── tailwind.config.js
 
-                                                                        "Making mental well-being a priority, not a privilege."
+"Making mental well-being a priority, not a privilege."
 
