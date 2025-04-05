@@ -1,8 +1,5 @@
 # MindMate
 MindMate is a responsive, AI-integrated web application designed to empower users in tracking, understanding, and improving their mental well-being. With a calming pastel blue UI and user-friendly dashboard, it’s built for accessibility, privacy, and emotional support.
-MindMate – Your AI-Powered Mental Wellness Companion
-
-MindMate is a responsive, AI-integrated web application designed to empower users in tracking, understanding, and improving their mental well-being. With a calming pastel blue UI and user-friendly dashboard, it’s built for accessibility, privacy, and emotional support.
 
 Features
 - ✅ Personalized Self-Assessments
@@ -49,5 +46,5 @@ mindmate/
 ├── index.html
 └── tailwind.config.js
 
-                                                                              "Making mental well-being a priority, not a privilege."
+                                                                        "Making mental well-being a priority, not a privilege."
 
